@@ -1,0 +1,12 @@
+---
+url: "http://dev.com.br"
+database: 
+  host: "192.168.99.101"
+  dbname: "nflix"
+  user: "postgres"
+  password: "qaninja"
+users: 
+  cat_manager:
+    email: "tony@stark.com"
+    pass: "123456"
+    
